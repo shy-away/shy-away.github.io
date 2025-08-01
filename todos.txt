@@ -1,0 +1,34 @@
+Ideas...
+
+Structure for each portfolio item:
+    Image?
+        Learn how to do images for the web?
+    Name
+    Short desc
+    Link
+
+Find other free basic host for the portfolio items that are sites
+    for stuff that isn't a site, just throw it into this github repo (or another one?) to be showcased
+
+STUFF TO LINK:
+Find fCC certs and link them
+Find school projects, put them in a repo, and at least let people see the old code
+    categorize by class?
+Hackathon code
+    mention my parts
+
+Start with CSS and move to SASS?
+    Learn SASS (with best practices for partials)?
+    Learn SASS in a different project and showcase it as an item?
+
+Other things to learn...
+Basic express site
+Basic modular JS
+Basic React
+Basic MongoDB (with mongoose, npm, etc)
+Find other ideas that flex skills in MERN stack
+Angular?
+Python website? (Django?)
+Java website?
+C# website?
+ML with Python?
