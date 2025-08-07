@@ -1,21 +1,22 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-html, body {
-    height: 100%;
+html,
+body {
+  height: 100%;
 }
 
-footer {
-    text-align: center;
+#contact {
+  text-align: center;
 }
 
-footer > * {
-    margin: auto 1%;
+#contact > * {
+  margin: auto 1%;
 }
 
-footer > a > img {
-    height: 50px;
+#contact > a > img {
+  height: 50px;
 }
